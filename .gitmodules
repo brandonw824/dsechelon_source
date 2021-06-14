@@ -1,0 +1,4 @@
+[submodule "dsechelon/public"]
+	path = dsechelon/public
+	url = https://github.com/brandonw824/brandonw824.github.io.git
+	branch = main
